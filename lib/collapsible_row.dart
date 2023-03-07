@@ -1,7 +1,4 @@
 library collapsible_row;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'src/collapsible_row_controller.dart';
+export 'src/widget/collapsible_row.dart';
