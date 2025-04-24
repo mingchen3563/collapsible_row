@@ -4,8 +4,8 @@ version: 0.0.2
 homepage: https://github.com/triplehman3563/collapsible_row
 
 environment:
-  sdk: '>=2.19.2 <3.0.0'
-  flutter: ">=1.17.0"
+  sdk: ">=3.0.0"
+  flutter: ">=3.0.0"
 
 dependencies:
   flutter:
