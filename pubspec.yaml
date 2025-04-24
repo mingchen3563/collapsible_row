@@ -1,11 +1,12 @@
 name: collapsible_row
 description: A layout allow collapse a column in a two elements row.
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/triplehman3563/collapsible_row
 
 environment:
-  sdk: '^3.2.0'
+  sdk: '>=3.0.0 <4.0.0'
   flutter: ">=3.0.0"
+
 
 dependencies:
   flutter:
